@@ -1,3 +1,17 @@
+## Project details template
+
+This application (covid 19 tracker) was built using React Js with (Numeral.js,react-chartjs-2,leaflet,react hooks).This project is a single page application where the user can quickly reach the number of cases, recovery, deaths of covid 19 in the world. The project has graphics that are updated daily and is extremely faithful and reliable in its numbers.
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
