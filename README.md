@@ -8,16 +8,16 @@ This is how the project looks like.
 The map envolved with the red rectangle informs to the user all the cases,recovered and deaths of covid 19 in the world all the data is updated every day.
 ![The map envolved with the red rectangle informs for the user all the cases,recovered and deaths of covid 19 in the world all the data is updated every day.](https://github.com/CaioRochaCaldas/covid-19-tracker/blob/master/primeiro.png)
 
-When the user clicks on any of the red circles with the titles: Corona virus cases, Recovered and Deaths the map will change and it will filter by only what the user wants.
+When the user clicks on any of the areas surrounded by the red circles with the titles: Corona virus cases, Recovered and Deaths the map will change and it will filter by only what the user wants.
 ![When the user clicks on any of the red circles with the titles: Corona virus cases, Recovered and Deaths the map will change and it will filter by only what the user wants.](https://github.com/CaioRochaCaldas/covid-19-tracker/blob/master/segundo.png)
 
 The area surrounded by the red circle is the place where the user can filter any country in the world with the intention that the map goes to the exact location and show more about covid 19 in the exact country.
 ![The area surrounded by the red circle is the place where the user can filter any country in the world with the intention that the map goes to the exact location and show more about covid 19 in the exact country.](https://github.com/CaioRochaCaldas/covid-19-tracker/blob/master/terceiro.png)
 
-This section marked with the red rectangle shows the top countries with cases of covid 19 in the moment that the user is researching.
+This area surrounded by the red rectangle shows the top countries with cases of covid 19 in the moment that the user is researching.
 ![This section marked with the red rectangle shows the top countries with cases of covid 19 in the moment that the user is researching.(https://github.com/CaioRochaCaldas/covid-19-tracker/blob/master/quarto.png)
 
-This graph marked with the red circle represents the cases of covid 19 in the last days, weeks and months.
+This graph surrounded by the red circle represents the cases of covid 19 in the last days, weeks and months.
 ![This graph marked with the red circle represents the cases of covid 19 in the last days, weeks and months](https://github.com/CaioRochaCaldas/covid-19-tracker/blob/master/quinto.png)
 
 
